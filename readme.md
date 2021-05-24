@@ -4,6 +4,6 @@
 I'm a Full Stack Web Developer in Tampa, FL
 
 ## Languages and Tools
- ﯤ      ﲎ   
+<img src="./images/technologies.png">
 
 Feel free to check out my repositories
