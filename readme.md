@@ -1,5 +1,5 @@
 # Hi, there. My name is Mushfiq Mahmud
-`Moosh•feek Mah•mood`
+`Moosh•fik Mah•mood`
 
 I'm a Full Stack Web Developer in Tampa, FL
 
